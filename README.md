@@ -37,7 +37,36 @@
   <br>
   Projects/Citations
   </details>
+  
+  ## Areas of Specialty/Definitions of Gerontological Measures
+ 
+ <details>
+  <summary> Instrumental Activities of Daily Living </summary>
+  <br>
+  (Usage in a recent citation?)
+  </details>
+  
+  <details>
+  <summary> Basic Activities of Daily Living </summary>
+  <br>
+  (Usage in a recent citation?)
+  </details>
+  
+  <details>
+  <summary> Cognitive Decline Measures </summary>
+  <br>
+  (Usage in a recent citation?)
+  </details>
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
   Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
