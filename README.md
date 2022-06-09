@@ -1,9 +1,41 @@
 #  UCSF Statistician Laboratory
 
+## About
+
+(Text about Pepper DAC and our Statistician Team) (?)
+
+## Statisticians
+
 <details>
   <summary> Statistician Name 1 </summary>
   <br>
   Projects
+  </details>
+  
+  <details>
+  <summary> Statistician Name 2 </summary>
+  <br>
+  Projects
+  </details>
+  
+  <details>
+  <summary> Statistician Name 3 </summary>
+  <br>
+  Projects
+  </details>
+
+## Ongoing Projects
+
+<details>
+  <summary> Project Name/Citation 1 </summary>
+  <br>
+  Projects/Citations
+  </details>
+  
+  <details>
+  <summary> Project Name/Citation 1 </summary>
+  <br>
+  Projects/Citations
   </details>
 
   Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
